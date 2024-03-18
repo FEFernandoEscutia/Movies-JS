@@ -1,0 +1,108 @@
+body {
+  background-image: url(https://w.forfun.com/fetch/3b/3b20b52df5bf35b05f321f4c9fddfacf.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+.my-header{
+    height: 400px;
+}
+
+#header1 {
+  padding: 30px;
+}
+.display-1,
+.media-body {
+  color: #c0c0c0;
+}
+
+.media-body {
+  font-size: large;
+}
+
+.mr-3 {
+  width: 5cm;
+  height: auto;
+}
+
+.form-control {
+  background-color: #292929;
+  color: #797979;
+}
+.form-control:focus {
+  color: #292929;
+  background-color: #000000;
+  border-color: #292929;
+  box-shadow: none !important;
+  transition: none !important;
+}
+
+.form-control:hover,.input-container:hover,
+.btn:hover, .btn-dark:hover,
+.form-control:active {
+  color: #292929 !important;
+  background-color: #000000 !important;
+  border-color: #292929 !important;
+}
+
+.mult-select-tag:hover .body {
+    border-color: #292929 !important;
+}
+
+label {
+  color: white;
+  font-weight: bold;
+}
+
+select option:hover {
+  color: #292929 !important;
+  background-color: #000000 !important;
+}
+
+.input-container {
+  color: #ffffff !important;
+  background-color: #292929 !important;
+  border-color: #292929 !important;
+}
+
+.btn-container {
+  color: #292929 !important;
+  background-color: #292929 !important;
+  border-color: #292929 !important;
+}
+
+.drawer {
+  color: #6c757d !important;
+  background-color: #292929 !important;
+  border-color: #292929 !important;
+}
+
+.item-container {
+  color: #000000 !important;
+  background-color: #292929 !important;
+  border-color: #ffffff !important;
+}
+
+.item-label {
+  color: #ffffff !important;
+}
+
+
+.mult-select-tag {
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border-radius: 0.25rem;
+}
+
+.container {
+    margin-bottom: 10%; 
+}
+
+.col-4{
+    margin-top: 2%;
+}
+
